@@ -1,2 +1,2 @@
 # CW-Artificial-Neural-Network
-A multi player perceptron built in Java
+A multi-layer perceptron built in Java
